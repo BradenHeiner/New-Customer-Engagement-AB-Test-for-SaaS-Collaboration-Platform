@@ -1,4 +1,4 @@
-# A/B Test to Improve New Customer Engagement for SaaS Collaboration Platform
+# A/B Test for New Customer Engagement for SaaS Collaboration Platform
 
 ### Executive Summary
 
