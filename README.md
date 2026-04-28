@@ -22,7 +22,7 @@ Early engagement for new customers of our platform is one of the key drivers of 
 
 SQL: Analysis composed of basic queries, CTEs, table joins, aggregates functions, and case expressions.
 
-AI: Used to generate synthetics datasets and create template python code for visualizations (pandas, matplotlib, numpy).
+AI: Used to generate synthetic datasets and create template python code for visualizations (pandas, matplotlib, numpy).
 </br>
 </br>
 ### Results & Business Recommendations
@@ -41,9 +41,9 @@ Important Note: Starting onboarding is the driver of Time to First Collaboration
 </br>
 To improve the onboarding experience, we introduced the following changes in an A/B test with a 50/50 split for February:
 - Questionnaire moved to immediately after signup
-- Questionaire reduced to 3 questions, all as dropdowns: Country, Industry, and Company Size
-- Questionaire required for new accounts
-- Skippable Invite Your Team screen added to Onboarding, following Questionaire
+- Questionnaire reduced to 3 questions, all as dropdowns: Country, Industry, and Company Size
+- Questionnaire required for new accounts
+- Skippable Invite Your Team screen added to Onboarding, following Questionnaire
 - Repository Creation and Management added to New User Tour
 
 After conducting the test, here are the results of the Variant group against the Control group:
@@ -77,4 +77,4 @@ Guardrail Metric:
 - Control: 23.33%
 - Variant: 13.33%
 
-Based on the results of our test, we strongly recommend going live with the new Onboarding Experience used in the Variant group.
+Based on the results of our test, we strongly recommend going live with the new Onboarding Experience used in the Variant group immediately with a 1 month monitoring period before further testing.
