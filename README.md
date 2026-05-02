@@ -17,7 +17,7 @@ Early engagement for new customers of our platform is one of the key drivers of 
 3. Based on findings from EDA, recommend an A/B test likely to improve early engagement.
 4. Compare test results against control group and baseline metrics to determine the winner.
 </br>
-</br>
+
 ### Skills
 
 SQL: Analysis composed of basic queries, CTEs, table joins, aggregates functions, and case expressions.
